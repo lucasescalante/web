@@ -1,0 +1,42 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(56,8,119,1) 100%, rgba(37,20,100,1) 100%);
+}
+
+
+
+.navbar {
+    background-color: #292727;
+}
+
+.card {
+    border: 0px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(56,8,119,1) 100%, rgba(37,20,100,1) 100%);
+}
+
+.card-img {
+    border: 0;
+}
+
+.card-body {
+    color: white;
+}
+
+.flex {
+    display: flex;
+}
+
+a:link {color: white;}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+}
+
+.afinal:link {color: yellow;}
+
+.afinal:visited {color: lightskyblue;}
