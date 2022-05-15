@@ -3,7 +3,7 @@ function bigImg(x) {
     x.style.width = "64px"
 }
 
-  function normalImg(x) {
+function normalImg(x) {
     x.style.height = "48px"
     x.style.width = "48px"
 }
