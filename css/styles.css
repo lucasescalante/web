@@ -3,12 +3,6 @@ body {
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(56,8,119,1) 100%, rgba(37,20,100,1) 100%);
 }
 
-
-
-.navbar {
-    background-color: #292727;
-}
-
 .card {
     border: 0px;
     background: rgb(2,0,36);
@@ -40,3 +34,8 @@ a:visited {
 .afinal:link {color: yellow;}
 
 .afinal:visited {color: lightskyblue;}
+
+.foto {
+    border: 0.1rem solid;
+    color: blue;
+}
